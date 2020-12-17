@@ -1,9 +1,9 @@
 # ✨ Casa Texturizada ✨
 
-El presente proyecto se enfoca en el uso de texturas con el fin de poder dar mucha más vida a los diseños o proyectos realizados mediante primitivas. Específicamente este proyecto trata de realizar la casa de mi personaje de LOL previamente realizado, sin embargo, Soraka no tiene casa por lo que se escogió como casa/edificio a construir el siguiente ambiente: <br>
+El presente proyecto se enfoca en el uso de texturas con el fin de poder dar mucha más vida a los diseños o proyectos realizados mediante primitivas. Específicamente este proyecto trata de realizar la casa de mi personaje de LOL previamente realizado, sin embargo, Soraka no tiene casa por lo que se escogió como casa/edificio a construir el siguiente ambiente: <br><br><br>
 <img src="https://github.com/aMurryFly/casa_texturizada_openGL/blob/main/about/img/general.PNG" alt="img" style="zoom:30%;" />
-
-
+<br><br>
+Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu.be/aR-KAldshAE)  
 
 ## 🚀 Manual de uso y funcionamiento
 
