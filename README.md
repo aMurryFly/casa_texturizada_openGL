@@ -14,7 +14,7 @@ Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu
 - Para desplazar la cámara utiliza las teclas 'A' 'S' 'D' y 'W' 
 
 - A continuación el resultado obtenido a través del uso de OpenGL para la generación de la casa de mi personaje (Ambiente recreado):<br>
-[Video de funcionamiento]()
+[Video de funcionamiento](https://youtu.be/bRYmRxO-Hb4)
 
 ## 🤔 Herramientas y referencias 
 
