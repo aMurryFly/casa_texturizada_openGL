@@ -31,7 +31,4 @@ Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu
   
 ## ⚠ Errores o detalles a contemplar para futuros proyectos
 
-1. Debido a la complejidad que representó el poder adaptar algunas texturas en primitivas más complejas, se decidió meramente emplear planos y cubos.
-2. Para el diseño de las casas del otro lado de la muralla se decidió emplear figuras hechas en Maya empleadas por el profesor Valencia.
-3. Un error o detalle que sufre el skybox del proyecto es que no tienen el mismo filtro azul todas las caras por lo que se puede notar esa diferencia de color.
-
+1. La generación de entidades puede optimizarse mucho mejor a través de ciclos
