@@ -6,6 +6,7 @@ El presente proyecto se enfoca en el uso de texturas con el fin de poder dar muc
 Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu.be/aR-KAldshAE)  
 
 ## 🚀 Manual de uso y funcionamiento
+- El archivo resources.rar ubicado en la carpeta about, contiene todos los recursos del proyecto, en caso de que no se pueda compilar el proyecto directamente.
 
 - Manual de técnico (How to compile) [click here](https://github.com/aMurryFly/casa_texturizada_openGL/blob/main/about/How%20to%20compile%20(Manual%20T%C3%A9cnico).pdf)
 
@@ -18,12 +19,9 @@ Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu
 
 ## 🤔 Herramientas y referencias 
 
-1. Para la selección de color se utilizó la siguiente herramienta online:
-[https://imagecolorpicker.com/](https://imagecolorpicker.com/)
+1. Para editar las imágenes de las texturas (Darles una temperatura baja, es decir un color como azul) se utilizó [GIMP]https://www.gimp.org/)
 
-2. Para editar las imágenes de las texturas (Darles una temperatura baja, es decir un color como azul) se utilizó [GIMP]https://www.gimp.org/)
-
-3. Las texturas fueron descargadas de los siguientes lugares:
+2. Las texturas fueron descargadas de los siguientes lugares:
 
   - [https://www.cgtrader.com/](https://www.cgtrader.com/)
   - [https://www.textures.com/](https://www.textures.com/) 
