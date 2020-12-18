@@ -7,7 +7,7 @@ Basado en la cinemática de la temporada 2020 de LOL [Video aquí](https://youtu
 
 ## 🚀 Manual de uso y funcionamiento
 
-- Manual de técnico (How to compile) [click here]()
+- Manual de técnico (How to compile) [click here](https://github.com/aMurryFly/casa_texturizada_openGL/blob/main/about/How%20to%20compile%20(Manual%20T%C3%A9cnico).pdf)
 
 - Dentro de este mismo repo adjunto el archivo rar con las bibliotecas, imágenes y  recursos del proyecto 
 
